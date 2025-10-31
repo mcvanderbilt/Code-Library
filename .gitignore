@@ -1,0 +1,24 @@
+# ------------------------------------------------------
+# Matthew C. Vanderbilt                               --
+# Purpose: Personal code library                      --
+# Copyright: GNU AGPL v3.0                            --
+# ------------------------------------------------------
+
+# Ignore R temporary files
+.Rhistory
+.RData
+
+# Ignore password files
+.password
+.passwords
+.pw
+
+# Ignore rendered videos and presented lectures
+/videos/rendered/
+/lectures/presented/
+
+# Ignore dataset files that are too large for GitHub
+/data/raw/pd_nibrs_datasd.csv
+
+# Ignore personal files
+/personal_notes.md
