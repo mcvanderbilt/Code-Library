@@ -10,8 +10,6 @@
 
 # Ignore password files
 *.password
-*.passwords
-*.pw
 
 # Ignore rendered videos and presented lectures
 /videos/rendered/
