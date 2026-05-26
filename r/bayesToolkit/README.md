@@ -69,7 +69,7 @@ devtools::test()
 ```
 ## License
 Released under the **GNU Affero General Public License v3.0 (AGPL‑3)** license.
-See [LICENSE](License) for details.
+See LICENSE for details.
 
 ## AI Notice
 Some **documentation** has been generated or supplemented with the use of AI. Any other use is
